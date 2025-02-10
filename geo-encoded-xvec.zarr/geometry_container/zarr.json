@@ -1,0 +1,46 @@
+{
+  "shape": [],
+  "data_type": "float64",
+  "chunk_grid": {
+    "name": "regular",
+    "configuration": {
+      "chunk_shape": []
+    }
+  },
+  "chunk_key_encoding": {
+    "name": "default",
+    "configuration": {
+      "separator": "/"
+    }
+  },
+  "fill_value": 0.0,
+  "codecs": [
+    {
+      "name": "bytes",
+      "configuration": {
+        "endian": "little"
+      }
+    },
+    {
+      "name": "zstd",
+      "configuration": {
+        "level": 0,
+        "checksum": false
+      }
+    }
+  ],
+  "attributes": {
+    "geometry_type": "polygon",
+    "node_count": "node_count",
+    "node_coordinates": "x y",
+    "coordinates": "lon lat",
+    "grid_mapping": "spatial_ref",
+    "part_node_count": "part_node_count",
+    "interior_ring": "interior_ring",
+    "variable_name": "county",
+    "_FillValue": "AAAAAAAA+H8="
+  },
+  "zarr_format": 3,
+  "node_type": "array",
+  "storage_transformers": []
+}

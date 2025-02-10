@@ -1,0 +1,8 @@
+{
+  "coordinates":"x y",
+  "geometry":"geometry",
+  "_ARRAY_DIMENSIONS":[
+    "time",
+    "stations"
+  ]
+}

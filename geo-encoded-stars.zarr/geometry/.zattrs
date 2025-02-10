@@ -1,0 +1,8 @@
+{
+  "geometry_type":"polygon",
+  "grid_mapping":"crs",
+  "interior_ring":"interior_ring",
+  "node_coordinates":"x y",
+  "node_count":"node_count",
+  "part_node_count":"part_node_count"
+}
