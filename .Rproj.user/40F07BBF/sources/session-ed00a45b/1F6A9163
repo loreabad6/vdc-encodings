@@ -3,7 +3,7 @@
     "path": "~/vdc-encodings/io.qmd",
     "project_path": "io.qmd",
     "type": "quarto_markdown",
-    "hash": "1896616081",
+    "hash": "0",
     "contents": "",
     "dirty": false,
     "created": 1739221808900.0,
@@ -12,16 +12,16 @@
     "properties": {
         "source_window_id": "",
         "Source": "Source",
-        "cursorPosition": "29,33",
-        "scrollLine": "25",
+        "cursorPosition": "116,0",
+        "scrollLine": "96",
         "chunk_output_type": "console"
     },
     "folds": "",
-    "lastKnownWriteTime": 1739224225,
+    "lastKnownWriteTime": 1739225410,
     "encoding": "UTF-8",
     "collab_server": "",
     "source_window": "",
-    "last_content_update": 1739224225569,
+    "last_content_update": 1739225410600,
     "read_only": false,
     "read_only_alternatives": []
 }
